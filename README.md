@@ -36,3 +36,7 @@ This project aims to analyze customer engagement with promotional offers using d
 ## Conclusion
 
 This project demonstrates the application of data science techniques to analyze customer behavior and optimize marketing strategies. By leveraging machine learning models, we aim to personalize offers based on demographic data and improve customer engagement. Further enhancements could include hyperparameter tuning, advanced feature engineering, and exploring alternative models.
+
+## Project Repository
+
+For more details and to access the code, visit the project repository on GitHub: [Starbucks Project](https://github.com/feyzacotuk/Starbucks-Project/tree/main)
